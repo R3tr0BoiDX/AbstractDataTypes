@@ -1,4 +1,6 @@
-//Based mainly on https://github.com/Backxtar/Praktikum-5/blob/master/BinarySearchTree.h
+/* Based mainly on https://github.com/Backxtar/Praktikum-5/blob/master/BinarySearchTree.h
+ * and on pseudo code by Prof. Dr. Peter Altenbernd
+ */
 
 #ifndef BINARYSEARCHTREE_H
 #define BINARYSEARCHTREE_H
