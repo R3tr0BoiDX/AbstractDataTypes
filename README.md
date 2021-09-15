@@ -2,7 +2,7 @@
 Basic abstract data types implemented in C++
 
 ## Graphs
-Not necessarily a abstract data type, but could be used as such
+Not necessarily a abstract data type, but could be used as such  
 Implementation of a adjacency matrix and adjacency list graph
 Both capable of:
 * check if empty
