@@ -1,3 +1,5 @@
+//Based mainly on https://github.com/Backxtar/Praktikum-5/blob/master/BinarySearchTree.h
+
 #ifndef BINARYSEARCHTREE_H
 #define BINARYSEARCHTREE_H
 #include <stdexcept>
