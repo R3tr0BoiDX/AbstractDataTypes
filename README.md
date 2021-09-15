@@ -3,7 +3,7 @@ Basic abstract data types implemented in C++
 
 ## Graphs
 Not necessarily a abstract data type, but could be used as such  
-Implementation of a adjacency matrix and adjacency list graph
+Implementation of a adjacency matrix and adjacency list graph  
 Both capable of:
 * check if empty
 * adding edges weighted and directed
@@ -15,7 +15,7 @@ Both capable of:
 * doing a topological sort (almost, matrix has it's problems there)
 
 ## BinarySearchTree
-Implementation of a binary search tree
+Implementation of a binary search tree  
 Capable of:
 * check if emty
 * get root
