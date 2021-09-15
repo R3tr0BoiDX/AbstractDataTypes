@@ -33,10 +33,10 @@ Capable of:
 
 ## Stack, queue and linked lists
 Implementation of a
-* stack
-* queue
-* singly linked list
-* doubly linked list
+* Stack
+* Queue
+* Singly Linked List
+* Doubly Linked List
 
 ### Stack
 Capable of:
