@@ -1,5 +1,5 @@
 # AbstractDataTypes
-Basic abstract data types implemented in C++
+Basic abstract data types implemented in C++  
 TODO: Run professional tests and code coverage tools over it
 
 ## Graphs
