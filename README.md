@@ -1,5 +1,6 @@
 # AbstractDataTypes
 Basic abstract data types implemented in C++
+TODO: Run professional tests and code coverage tools over it
 
 ## Graphs
 Not necessarily a abstract data type, but could be used as such  
